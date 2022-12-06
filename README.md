@@ -1,9 +1,9 @@
 ### Hi there 🙇‍♂️
-My name is **Nuttapong Boonsala**. 
+My name is **Nuttapong Boonsala** (Bike). 
 
 Now I'm a 3rd year computer engineering student, Chinag Mai University. 
 
-Experienced in Python, Java, C++, SQL, PHP Laravel (more detail in my repos below 🙂)
+Experienced in Python, Java, C++, SQL, PHP Laravel (more detail in my repos below ⬇️)
 
 Interested in Data Engineer and Data Science field.
 
