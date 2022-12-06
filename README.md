@@ -32,6 +32,10 @@ Techniques : **model initialization**, **model optimization**, **model evaluatio
 - Deep Learning
 - Data Mining
 
+# Contact 📱
+- 📧 nuttapongboonsala@gmail.com
+- FB: Nuttapong Boonsala
+- LinkedIn: linkedin.com/in/nuttapong-boonsala-680848259/
 
 ## Currently looking for experience in Database Enginerring, Data Scientist, Software Dev Field!
 
