@@ -18,7 +18,7 @@ Models : **Feedforward**, **convolutional** , **recurrent neural networks**.
 Techniques : **model initialization**, **model optimization**, **model evaluation**,  **model regularization**. 
 
 
-### Major Computer Engineering Corses 💻
+### Major Computer Engineering Courses 💻
 - Database System
 - Object Oriented Programming (**OOP**)
 - Algorithm
