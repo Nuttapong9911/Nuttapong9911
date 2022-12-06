@@ -1,5 +1,4 @@
-### Hi there 🙇‍♂️
-My name is **Nuttapong Boonsala** (Bike). 
+# Hi there 🙇‍♂️ My name is **Nuttapong Boonsala** (Bike). 
 
 Now I'm a 3rd year computer engineering student, Chinag Mai University. 
 
